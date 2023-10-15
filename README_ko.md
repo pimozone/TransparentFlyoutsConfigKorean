@@ -3,7 +3,10 @@
 이 리포지토리는 Satanarious가 만든 [TransparentFlyoutsConfig](https://github.com/Satanarious/TransparentFlyoutsConfig)의 포크입니다. <br>
 저는 한국어 지원을 추가하기 위해 Satanarious의 [번역 기여 가이드](https://github.com/Satanarious/TransparentFlyoutsConfig#translation-contribution)를 참고해 만들었습니다. <br>
 
-이하 내용은 오리지널 리포지토리의 README입니다.
+'다른 언어' 이후의 내용은 오리지널 리포지토리의 README입니다.
+
+### 다른 언어
+[영어](https://github.com/pimozone/TransparentFlyoutsConfigKorean/tree/master#readme)
 
 ---
 <br>
