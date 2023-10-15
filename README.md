@@ -1,7 +1,9 @@
 ## Information about this repository
 
 This repository is a fork of [TransparentFlyoutsConfig](https://github.com/Satanarious/TransparentFlyoutsConfig) made by Satanarious. <br>
-I created this fork using Satanarious's [Translation Contribution guide](https://github.com/Satanarious/TransparentFlyoutsConfig#translation-contribution) to add Korean language support.
+I created this fork using Satanarious's [Translation Contribution guide](https://github.com/Satanarious/TransparentFlyoutsConfig#translation-contribution) to add Korean language support. <br>
+
+The following is the README of the original repository.
 
 ---
 <br>
