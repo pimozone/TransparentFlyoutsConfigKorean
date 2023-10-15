@@ -3,7 +3,7 @@
 This repository is a fork of [TransparentFlyoutsConfig](https://github.com/Satanarious/TransparentFlyoutsConfig) made by Satanarious. <br>
 I created this fork using Satanarious's [Translation Contribution guide](https://github.com/Satanarious/TransparentFlyoutsConfig#translation-contribution) to add Korean language support. <br>
 
-The contents after 'see in Other language' are the readme of the original repository.
+The contents after 'See in other language' are the readme of the original repository.
 
 ### See in other language
 [한국어 (korean)](https://github.com/pimozone/TransparentFlyoutsConfigKorean/blob/master/README_ko.md)
